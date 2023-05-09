@@ -4,8 +4,8 @@
 
 - <b>Microsoft Azure</b>
 
-  - [](https://github.com/ELIZABETHONAS/MICROSOFT-AZURE-RESOURCE-GROUP-AND-VIRTUAL-STORAGE-ACCOUNT
-  - https://github.com/ELIZABETHONAS/Microsoft-Azure-Windows-Virtual-Machine-
+  - [Creation of Resource Group and Virtual Storage Account](https://github.com/ELIZABETHONAS/MICROSOFT-AZURE-RESOURCE-GROUP-AND-VIRTUAL-STORAGE-ACCOUNT
+  - [Installation of Virtual Machines on Linux And Windows]https://github.com/ELIZABETHONAS/Microsoft-Azure-Windows-Virtual-Machine-
   - [Network Security Groups (NSGs) and Inspecting Network Protocols]https://github.com/ELIZABETHONAS/Network-Security-Groups-NSGs-and-Inspecting-Network-Protocols
 
 <h2>🤳Connect with me:</h2>
