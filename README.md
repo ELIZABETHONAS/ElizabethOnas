@@ -2,8 +2,8 @@
 <h2> 👩🏽‍💻  Information Technology Projects:</h2>
 
 - <b>Microsoft Azure</b>
-  - [Creation of Resource Group and Virtual Storage Account](https://github.com/elizabethonas/microsoft-azure-resource-group-and-virual-storage-account)
-  - [Azure Virual Machine Deployment](https://github.com/elizabethonas/microsoft-azure-windows-virtual-machine)
+  - [Creation of Resource Group and Cloud Storage](https://github.com/elizabethonas/microsoft-azure-resource-group-and-cloud-storage)
+  - [Azure Virual Machine Deployment](https://github.com/elizabethonas/azure-virtual-machine-deployment)
   - [Network Security Groups (NSGs)and inspecting Network Protocols](https://github.com/elizabethonas/network-security-groups-nsgs-and-inspecting-network-protocol)
 
 <h2>🤳Connect with me:</h2>
