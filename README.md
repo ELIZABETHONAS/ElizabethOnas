@@ -1,13 +1,10 @@
-<h1>Hi, I'm Elizabeth, an <a href="https://linkedin.com/in/ElizabethOnas">IT Professional 🤓 <h1>
-<h2>👨‍💻 Information Technology Projects:</h2>
+<h1>Hi, I'm Elizabeth, an <a href="https://linkedin.com/in/ElizabethOnas">IT Professional 💻 <h1>
+<h2> 👩🏽‍💻  Information Technology Projects:</h2>
 
-- <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/joshmadakorcc/osticket-prereqs)
-  - [osTicket: Post-Installation Configuration](https://github.com/joshmadakorcc/post-install-config)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/joshmadakorcc/ticket-lifecycle)
 - <b>Microsoft Azure</b>
   - [Creation of Resource Group and Virtual Storage Account](https://github.com/elizabethonas/microsoft-azure-resource-group-and-virual-storage-account)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
+  - [Installation of Virtual Machines on Linux and Windows](https://github.com/elizabethonas/microsoft-azure-windows-virtual-machine)
+  - [Network Security Groups (NSGs)and inspecting Network Protocols](https://github.com/elizabethonas/network-security-groups-nsgs-and-inspecting-network-protocol)
 
 <h2>🤳Connect with me:</h2>
 
