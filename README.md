@@ -5,13 +5,12 @@
   - [Creation of Resource Group and Cloud Storage](https://github.com/elizabethonas/microsoft-azure-resource-group-and-cloud-storage)
   - [Azure Virual Machine Deployment](https://github.com/elizabethonas/azure-virtual-machine-deployment)
   - [Network Security Groups (NSGs)and inspecting Network Protocols](https://github.com/elizabethonas/network-security-groups-nsgs-and-inspecting-network-protocol)
+  
+-  <b>OsTicket</b>
+    - [OsTicket Prequisite And Installation](https://github.com/ELIZABETHONAS/OsTicket-Prequisite-And-Installation)
 
 <h2>🤳Connect with me:</h2>
 
-[<img align="left" alt="Josh | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Josh | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Josh | LinkedIn" width="22px" src= />][linkedin]
 
-[twitter]: https://twitter.com/Josh
-[instagram]: https://www.instagram.com/Josh
 [linkedin]: https://linkedin.com/in/Josh
