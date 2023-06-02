@@ -6,7 +6,7 @@
   - [Azure Virual Machine Deployment](https://github.com/elizabethonas/azure-virtual-machine-deployment)
   - [Network Security Groups (NSGs)and inspecting Network Protocols](https://github.com/elizabethonas/network-security-groups-nsgs-and-inspecting-network-protocol)
   
--  <b>OsTicket</b>
+-  <b>OsTicket (Help Desk Ticketing System)</b>
     - [OsTicket Prequisite And Installation](https://github.com/ELIZABETHONAS/OsTicket-Prequisite-And-Installation)
 
 <h2>🤳Connect with me:</h2>
